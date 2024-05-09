@@ -1,2 +1,2 @@
-# tic-tac-toe-c
+# Tic-Tac-Toe-c
 A tic-tac-toe game made in C
